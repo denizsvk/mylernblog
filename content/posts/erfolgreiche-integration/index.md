@@ -33,7 +33,7 @@ description = "Zusammen mit meinem Reportagepartner haben wir eine Kirche besuch
 
 * ##### Café mondiaL, ein Laden mit fairen Produkten zu dem fairen Preis 
 
-##### \    Café, claro Laden, Info-Point und Ort der Begegnung für viele Menschen. Das Café, wie auch der Laden, bietet Produkte aus gerechtem Handel zu fairen Preisen an. Das Sortiment des claro-Ladens reicht von hochwertigen Ölen über viele Kaffee- und Teesorten bis hin zu manchen Süssigkeiten und Artikeln des täglichen Bedarfs. Der Laden ist jeweils am Dienstag, Mittwoch, Donnerstag und Samstag geöffnet. Im Café arbeiten hauptsächlich Migrant:innen aus verschiedensten Ländern sowie einige wenige Schweizer:innen jeweils über den Mittag.
+#####    Café, claro Laden, Info-Point und Ort der Begegnung für viele Menschen. Das Café, wie auch der Laden, bietet Produkte aus gerechtem Handel zu fairen Preisen an. Das Sortiment des claro-Ladens reicht von hochwertigen Ölen über viele Kaffee- und Teesorten bis hin zu manchen Süssigkeiten und Artikeln des täglichen Bedarfs. Der Laden ist jeweils am Dienstag, Mittwoch, Donnerstag und Samstag geöffnet. Im Café arbeiten hauptsächlich Migrant:innen aus verschiedensten Ländern sowie einige wenige Schweizer:innen jeweils über den Mittag.
 
 ![](img2.png "Der Laden bietet noch weitere günstige Gerichte und Spende Möglichkeiten. (Ali G) ")
 
