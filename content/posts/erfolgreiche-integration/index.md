@@ -1,5 +1,5 @@
 +++
-title = "Erfolgreiche Integration"
+title = "Integration Reportage von Deniz und Ali"
 date = "2022-12-01"
 draft = false
 pinned = false
@@ -33,7 +33,7 @@ description = "Zusammen mit meinem Reportagepartner haben wir eine Kirche besuch
 
 * ##### Café mondiaL, ein Laden mit fairen Produkten zu dem fairen Preis 
 
-#####    Café, claro Laden, Info-Point und Ort der Begegnung für viele Menschen. Das Café, wie auch der Laden, bietet Produkte aus gerechtem Handel zu fairen Preisen an. Das Sortiment des claro-Ladens reicht von hochwertigen Ölen über viele Kaffee- und Teesorten bis hin zu manchen Süssigkeiten und Artikeln des täglichen Bedarfs. Der Laden ist jeweils am Dienstag, Mittwoch, Donnerstag und Samstag geöffnet. Im Café arbeiten hauptsächlich Migrant:innen aus verschiedensten Ländern sowie einige wenige Schweizer:innen jeweils über den Mittag.
+##### Café, claro Laden, Info-Point und Ort der Begegnung für viele Menschen. Das Café, wie auch der Laden, bietet Produkte aus gerechtem Handel zu fairen Preisen an. Das Sortiment des claro-Ladens reicht von hochwertigen Ölen über viele Kaffee- und Teesorten bis hin zu manchen Süssigkeiten und Artikeln des täglichen Bedarfs. Der Laden ist jeweils am Dienstag, Mittwoch, Donnerstag und Samstag geöffnet. Im Café arbeiten hauptsächlich Migrant:innen aus verschiedensten Ländern sowie einige wenige Schweizer:innen jeweils über den Mittag.
 
 ![](img2.png "Der Laden bietet noch weitere günstige Gerichte und Spende Möglichkeiten. (Ali G) ")
 
@@ -46,6 +46,8 @@ description = "Zusammen mit meinem Reportagepartner haben wir eine Kirche besuch
 ##### Im Laden haben Kunden zudem die Möglichkeit, für gute Zwecke zu spenden, indem sie bestimmte Produkte wie beispielsweise Kerzen einkaufen. Der Sozialdienst der Kirchgemeinde Bethlehem befindet sich gleich über dem Café. Daher sind dessen Angestellten Stammkund*innen des Cafés. So wird das Mittagessen im mondiaL zu einer Art Fusion zwischen dem ausländischen Koch oder der ausländische Köchin und den Schweizer Sozialarbeiter:innen. 
 
 ##### Ahlam hatte ihre Verantwortung gegenüber dem Laden erledigt und war somit fertig mit ihrem Anteil fertig. Als nächstes muss sie zurück zu ihrem Büro für der Führung ihre Beratungsstunden auf Arabisch, welche Infotime Bern heisst. Im weg erzählte uns Ahlam, wie gut der Laden ihr unterstützte, sich in der schweizerischen Gemeinschaft einzufinden. 
+
+
 
 > #####  «Das Café ist für mich wie eine Integrationsübung» Ahlam Ali, Vermittlerin der arabischen Gesellschaft in Bern-West. 
 
@@ -71,6 +73,4 @@ description = "Zusammen mit meinem Reportagepartner haben wir eine Kirche besuch
 
 * ##### Zweite Kasten Text über schweizerischer Integrationspolitik 
 
-##### Die Schweizer Integrationspolitik richtet sich am Prinzip «Fördern und Fordern» aus. Mit «Fordern» wird die Selbstverantwortung der Zugewanderten angesprochen. Die ausländerrechtlichen Erfordernisse legen fest, was von ihnen erwartet wird und mit welchen Folgen sie gegebenenfalls rechnen müssen, wenn sie diese Erfordernisse nicht erfüllen. Das «Fördern» umfasst alle Massnahmen, welche die Integration der Migrationsbevölkerung unterstützen. 
-
-<!--EndFragment-->
+##### Die Schweizer Integrationspolitik richtet sich am Prinzip «Fördern und Fordern» aus. Mit «Fordern» wird die Selbstverantwortung der Zugewanderten angesprochen. Die ausländerrechtlichen Erfordernisse legen fest, was von ihnen erwartet wird und mit welchen Folgen sie gegebenenfalls rechnen müssen, wenn sie diese Erfordernisse nicht erfüllen. Das «Fördern» umfasst alle Massnahmen, welche die Integration der Migrationsbevölkerung unterstützen.
