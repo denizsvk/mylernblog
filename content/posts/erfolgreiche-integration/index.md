@@ -3,7 +3,7 @@ title = "Integration Reportage von Deniz und Ali"
 date = "2022-12-01"
 draft = false
 pinned = false
-tags = ["Integration"]
+tags = ["DeutschReportage"]
 image = "clay-banks-ljqarjajotc-unsplash-2-.jpg"
 description = "Zusammen mit meinem Reportagepartner haben wir eine Kirche besucht und uns über Integration informiert."
 +++
