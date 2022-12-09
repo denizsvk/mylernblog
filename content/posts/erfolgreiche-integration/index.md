@@ -13,6 +13,8 @@ description = "Zusammen mit meinem Reportagepartner haben wir eine Kirche besuch
 
 ![](img1.png "Vor der reformierten Kirche Bethlehems:")
 
+##### Vor der reformierten Kirche Bethlehems:
+
 ##### Am Mittwochnachmittag, dem 26.10.2022 trafen wir in der reformierte Kirche Betlehems mit einer Person, die aus Syrien in die Schweiz geflüchtet hatte und es geschafft hatte, sich in der Gesellschaft zu einfinden und zu arbeiten. Es war Ahlam Ali. Ahlam Ali arbeitet seit 2018 bei «Infotime Bern» als Beraterin und Vermittlerin für arabisch sprechende Migrant: innen. Am Anfang waren wir in Ahlams Büro eingeladen. Dort setzten wir uns mit ihr auseinander und nahmen das Interview auf. 
 
 ##### Kriege, Konflikte oder auch politische Verfolgungen sind heute leider nach wie vor in vielen Teilen der Welt zu antreffen. Diese Veranstaltungen führen unter anderem dazu, dass Menschen aus ihrem Heimatland flüchten müssen, um sich ein Leben ohne Angst mit etwas Wohlstand ermöglichen zu können. Viele Menschen flüchten deshalb in ein Land, in dem sie eine längerfristige Aufenthaltsbewilligung erhalten und in dem sie von der einheimischen Gesellschaft akzeptiert und toleriert werden. Dafür muss dieses Land über einen guten Integrationsprozess verfügen. Deniz Sevik und Ali Guweidhi sind auch betroffen, da sie beide in der Schweiz als integriert gelten. Deren Familien haben den Integrationsprozess durchlaufen. Diesen Prozess wollen wir nun genauer analysieren und dabei herausfinden, wie es in der Schweiz weitergeht, nachdem man im Land aufgenommen worden ist. Dabei wollten wir den Fokus auf Anlaufstellen legen, die unsere Familien, aber auch viele andere Migranten, bei der Integration unterstützen. Diese Beratungsstellen sind es, die uns geholfen haben, Teil der Schweizer Gesellschaft zu werden und unsere Familien dabei unterstützten, Arbeit zu finden.  
@@ -37,6 +39,8 @@ description = "Zusammen mit meinem Reportagepartner haben wir eine Kirche besuch
 
 ![](img2.png "Der Laden bietet noch weitere günstige Gerichte und Spende Möglichkeiten. (Ali G) ")
 
+##### Der Laden bietet noch weitere günstige Gerichte und Spende Möglichkeiten. (Ali G) 
+
 ##### Als wir in dem Laden angekommen waren, gab es schon ein Paar Kunden. Es war erstaunlich, denn die Preise waren billig und es hatte eine schöne Stimmung in dem Laden. Der Aussicht war auch wunderschön an diesem Tag, da das Wetter gut war. 
 
 ##### Ahlam Ali trägt ab und zu Verantwortung für das Café. Was das Café zu etwas Besonderem macht, ist es, dass die Gerichte meistens vegetarisch zubereitet werden und dass das Angebot von denjenigen zusammengestellt werden, die an den jeweiligen Tagen für das Café zuständig sind. «Die Gerichte sind also von der jeweiligen Kultur der oder des Mitarbeitenden geprägt», meint Ahlam. Im Café herrscht Vertrauen gegenüber den Gästen.  
@@ -47,11 +51,11 @@ description = "Zusammen mit meinem Reportagepartner haben wir eine Kirche besuch
 
 ##### Ahlam hatte ihre Verantwortung gegenüber dem Laden erledigt und war somit fertig mit ihrem Anteil fertig. Als nächstes muss sie zurück zu ihrem Büro für der Führung ihre Beratungsstunden auf Arabisch, welche Infotime Bern heisst. Im weg erzählte uns Ahlam, wie gut der Laden ihr unterstützte, sich in der schweizerischen Gemeinschaft einzufinden. 
 
-
-
 > #####  «Das Café ist für mich wie eine Integrationsübung» Ahlam Ali, Vermittlerin der arabischen Gesellschaft in Bern-West. 
 
 ![](img3.png "Ahlam bereitet das Mittagessen in dem Café für die Ladenbesuchende zu. (D.S.)")
+
+##### Ahlam bereitet das Mittagessen in dem Café für die Ladenbesuchende zu. (D.S.)
 
 * ##### Erstekasten Text über Ahlam Ali, Interviewpartnerin. 
 
@@ -66,6 +70,8 @@ description = "Zusammen mit meinem Reportagepartner haben wir eine Kirche besuch
 ##### Ausserdem begleitet sie Nichtdeutschsprechende auch ausserhalb ihrer Arbeitszeit zum Übersetzen. «Flüchtlinge versuchen sich oft zu integrieren, wissen aber nicht wie», sagt Ahlam. Deshalb leistet sie oft auch Vernetzungsarbeit. In diesem Zusammenhang ist es Ahlams Aufgabe, die Migrant:innen die Tür zur schweizerischen Gesellschaft und Kultur zu öffnen, indem sie ihnen interkulturelle Aktivitäten oder Treffen empfehlt.  
 
 ![](img4.png "Flyer für den Infodienst auf verschiedene Sprachen. (A.G.) ")
+
+##### Flyer für den Infodienst auf verschiedene Sprachen. (A.G.) 
 
 * ##### Was wir daraus gehalten haben. 
 
